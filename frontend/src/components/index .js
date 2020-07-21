@@ -1,0 +1,6 @@
+export {default as Logo } from './template/Logo'
+export {default as Nav } from './template/Nav'
+export {default as Main } from './template/Main'
+export {default as Footer } from './template/Footer'
+export {default as Home } from './home/Home'
+export {default as UserCrud } from './user/UserCrud'
